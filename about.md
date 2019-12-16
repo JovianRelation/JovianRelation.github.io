@@ -2,5 +2,6 @@
 layout: default
 title: About
 ---
-<h1>About Page</h1>
-<h2>This page tells you a little bit about me.</h2>
+#About page
+
+This page tells you a little bit about me.
